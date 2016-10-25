@@ -14,7 +14,7 @@ p{
     display: block;
     margin: auto;
     margin-top: 10px;
-    padding-top: 10px;
+    padding-top: 25px;
     padding-bottom: 50px;
     float: none;
     text-align: center;
@@ -47,7 +47,7 @@ h2,h3,h4{
 .col-nav {
     float: none;
     margin: auto;
-    padding: 15px;
+    padding-bottom: 25px;
     padding-top:  25px;
 }
 
@@ -88,14 +88,16 @@ h2,h3,h4{
 .col-description {
     float: none;
     margin: auto;
-    padding: 40px;
+    padding-top: 50px;
    
 }
 
 .col-features {
     float: none;
     margin: auto;
-    padding: 20px;
+    margin-top: 50px;
+    padding-left: 20px;
+    
 }
 
 .col-screenshots {
