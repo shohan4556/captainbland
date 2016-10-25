@@ -131,6 +131,10 @@ h2,h3,h4{
     padding-left: 40px;
 }
 
+.social-img{
+    padding: 5px;
+}
+
 /*Font faces*/
 
 @font-face {
