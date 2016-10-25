@@ -124,11 +124,21 @@ h2,h3,h4{
     margin: auto;
     float: left;
     padding-left: 150px;
+    padding-top: 40px;
 }
 
 .col-shohan-details{
     margin: auto;
     padding-left: 40px;
+    padding-top: 40px;
+}
+
+.img-profile{
+    
+}
+
+.info-me{
+  
 }
 
 .social-img{
