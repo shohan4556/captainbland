@@ -92,10 +92,28 @@ h2,h3,h4{
 }
 
 
+.relase-info{
+    margin: auto;
+    float: none;
+    text-align: center;
+    color: #e3ab12;
+}
+
+.relase-text{
+    font-family: alphbeta;
+    font-size: 20px;
+}
+
+.relase-text:hover{
+    color: #c74907;
+    transition: 0.5s;
+}
+
 .col-description {
     float: none;
     margin: auto;
     padding-top: 50px;
+    padding-left: 30px;
    
 }
 
@@ -110,39 +128,64 @@ h2,h3,h4{
 .col-screenshots {
     float: none;
     margin: auto;
-    padding: 20px;
+    padding-top: 40px; 
+    padding-left: 150px;
+    padding-bottom: 20px;
 }
 
+.col-sm-6{
+    padding-left: 100px;
+}
+
+.img-screenshots{
+    padding: 5px;
+}
 
 .row-about{
     margin: auto;
     float: none;
     padding-top: 80px;
+    padding-bottom: 20px;
 }
 
 .col-shohan-pic{
-    margin: auto;
+    margin-left: 150px;
     float: left;
-    padding-left: 150px;
-    padding-top: 40px;
+    padding: 20px;
 }
 
 .col-shohan-details{
     margin: auto;
-    padding-left: 40px;
-    padding-top: 40px;
+}
+
+.about-shohan{
+    margin: auto;
+    padding-right: 50px;
 }
 
 .img-profile{
     
 }
 
+.text-social{
+    color: #edad33;
+    text-decoration: none;
+}
+
+
 .info-me{
-  
+  padding-top: 20px;    
+  padding-right: 50px;
+  font-size: 14px;
+  font-family: Roboto-Medium;    
 }
 
 .social-img{
     padding: 5px;
+}
+
+.com-sm-2{
+    padding-left: 200px;
 }
 
 /*Font faces*/
