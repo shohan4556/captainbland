@@ -184,6 +184,10 @@ h2,h3,h4{
     padding: 5px;
 }
 
+.bold-text{
+    color: #ef7b07;
+}
+
 .com-sm-2{
     padding-left: 200px;
 }
