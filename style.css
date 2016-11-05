@@ -1,16 +1,16 @@
-html,body {
+html,
+body {
     height: 100%;
     font-size: 16px;
     color: white;
     background: url(images/bg_01.png) center center;
-   
 }
 
-p{
+p {
     font-family: Roboto-Medium;
 }
 
-.title-cover{
+.title-cover {
     display: block;
     margin: auto;
     margin-top: 10px;
@@ -21,12 +21,11 @@ p{
     font-family: alphbeta;
 }
 
-h1{
+h1 {
     font-size: 70px;
 }
 
-
-.row-icon{
+.row-icon {
     margin-top: 5px;
     padding-left: 1000px;
     padding-top: 5px;
@@ -40,7 +39,9 @@ h1{
     padding: 0px;
 }
 
-h2,h3,h4{
+h2,
+h3,
+h4 {
     font-family: small_pixel-7;
 }
 
@@ -48,10 +49,10 @@ h2,h3,h4{
     float: none;
     margin: auto;
     padding-bottom: 25px;
-    padding-top:  25px;
+    padding-top: 25px;
 }
 
-.row-contact{
+.row-contact {
     margin: auto;
     float: none;
     text-align: center;
@@ -69,42 +70,40 @@ h2,h3,h4{
     border: 1px solid;
 }
 
-.nav:hover{
+.nav:hover {
     color: #ef7b07;
     transition: 0.5s;
 }
 
-.col-icon{
+.col-icon {
     float: left;
     clear: both;
     padding: 5px;
     margin: 10px;
 }
 
-.col-sm-3 a{
+.col-sm-3 a {
     text-decoration: none;
 }
 
-
-.col-sm-3{
+.col-sm-3 {
     /*border: 1px solid #DDD;*/
-   /** background-color: rgba(118, 15, 221, 0.83);**/
+    /** background-color: rgba(118, 15, 221, 0.83);**/
 }
 
-
-.relase-info{
+.relase-info {
     margin: auto;
     float: none;
     text-align: center;
     color: #e3ab12;
 }
 
-.relase-text{
+.relase-text {
     font-family: alphbeta;
     font-size: 20px;
 }
 
-.relase-text:hover{
+.relase-text:hover {
     color: #c74907;
     transition: 0.5s;
 }
@@ -114,7 +113,6 @@ h2,h3,h4{
     margin: auto;
     padding-top: 50px;
     padding-left: 30px;
-   
 }
 
 .col-features {
@@ -122,75 +120,84 @@ h2,h3,h4{
     margin: auto;
     margin-top: 50px;
     padding-left: 20px;
-    
 }
 
 .col-screenshots {
     float: none;
     margin: auto;
-    padding-top: 40px; 
+    padding-top: 40px;
     padding-left: 150px;
     padding-bottom: 20px;
 }
 
-.col-sm-6{
+.col-sm-6 {
     padding-left: 150px;
 }
 
-.img-screenshots{
+.img-screenshots {
     padding: 5px;
 }
 
-.row-about{
+.row-about {
     margin: auto;
     float: none;
     padding-top: 80px;
     padding-bottom: 20px;
 }
 
-.col-shohan-pic{
+.col-shohan-pic {
     margin-left: 150px;
     float: left;
     padding: 20px;
 }
 
-.col-shohan-details{
+.col-shohan-details {
     margin: auto;
 }
 
-.about-shohan{
+.about-shohan {
     margin: auto;
     padding-right: 50px;
 }
 
-.img-profile{
-    
-}
+.img-profile {}
 
-.text-social{
+.text-social {
     color: #edad33;
     text-decoration: none;
 }
 
-
-.info-me{
-  padding-top: 20px;    
-  padding-right: 50px;
-  font-size: 14px;
-  font-family: Roboto-Medium;    
+.info-me {
+    padding-top: 20px;
+    padding-right: 50px;
+    font-size: 14px;
+    font-family: Roboto-Medium;
 }
 
-.social-img{
+.social-img {
     padding: 5px;
 }
 
-.bold-text{
+.bold-text {
     color: #ef7b07;
 }
 
-.com-sm-2{
+.com-sm-2 {
     padding-left: 200px;
 }
+
+.text-overlay {
+    position: absolute;
+    top: 0px;
+    padding-left: 25px;
+    left: 0;
+    width: 100%;
+}
+
+.dev-gif {
+    position: relative;
+}
+
 
 /*Font faces*/
 
