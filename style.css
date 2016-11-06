@@ -135,7 +135,7 @@ h4 {
 }
 
 .img-screenshots {
-    padding: 5px;
+    padding: 10px;
 }
 
 .row-about {
@@ -202,13 +202,13 @@ h4 {
 
 .presskit-text-title {
     font-size: 14px;
-    font-family: 'Roboto-Medium';
+    font-family: 'Morningtype';
     color: #f0c510;
 }
 
 .presskit-text {
-    font-size: 12px;
-    font-family: 'Roboto-Medium';
+    font-size: 14px;
+    font-family: 'Roboto-Regular';
 }
 
 .col-factsheet {
@@ -227,8 +227,22 @@ hr {
     height: 505px;
 }
 
+/*title h3*/
+.factsheet{
+    font-family: 'Morningtype';
+}
 
 /*Font faces*/
+
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url(fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Morningtype';
+    src: url(fonts/Morningtype.ttf);
+}
 
 @font-face {
     font-family: 'Roboto-Medium';
